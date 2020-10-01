@@ -1,6 +1,6 @@
 1. Test Case: Create new order
 
-   Description:	As Beach T-Shirts Co., I should be able to call a method to create an order for a specific number of t-shirts.
+   Description:	As Buyer T-Shirts Co., I should be able to call a method to create an order for a specific number of t-shirts.
 
    Desired Outcome: I should be able to do in Remix wothout getting an error.
 
@@ -10,9 +10,9 @@
 
 2. Test Case: Accepting Order
 
-   Description:	As Beach T-Shirts Co., I should not be able to call a method to accept the order.
+   Description:	As Buyer T-Shirts Co., I should not be able to call a method to accept the order.
 
-   Desired Outcome: The contract should display in the console that Beach T-Shirts can't accept orders.
+   Desired Outcome: The contract should display in the console that Buyer T-Shirts can't accept orders.
 
    Actual Outcome: On testing, I was able to place the order only using the Threads Inc account and I was getting the corresponding message if I try to accept the order as Beach T-Shirts Co.
 
@@ -20,9 +20,9 @@
 
 3. Test Case: Accepting Order
 
-   Description:	As Beach T-Shirts Co., I should not be able to call a method to accept the order.
+   Description:	As Buyer T-Shirts Co., I should not be able to call a method to accept the order.
 
-   Desired Outcome: The contract should display in the console that Beach T-Shirts can't accept orders.
+   Desired Outcome: The contract should display in the console that Buyer T-Shirts can't accept orders.
 
    Actual Outcome: On testing, I was able to place the order only using the Threads Inc account and I was getting the corresponding message if I try to accept the order as Beach T-Shirts Co.
 
@@ -30,17 +30,17 @@
 
 4. Test Case: Making Payment
 
-   Description:	Only Beach T-Shirts Co. should be able to call a method to make payment.
+   Description:	Only Buyer T-Shirts Co. should be able to call a method to make payment.
 
-   Desired Outcome: The contract should display in the console that Beach Threads Inc can't make payment for this order.
+   Desired Outcome: The contract should display in the console that Buyer Threads Inc can't make payment for this order.
 
-   Actual Outcome: On testing, I was able to make the payment only using the Beach T-Shirts Co. account and I was getting the corresponding message if I try to the payment as Threads Inc.
+   Actual Outcome: On testing, I was able to make the payment only using the Buyer T-Shirts Co. account and I was getting the corresponding message if I try to the payment as Threads Inc.
 
    Result: Pass
 
 5. Test Case: Making Payment
 
-   Description:	Only Beach T-Shirts Co. should be able to call a method to make payment.
+   Description:	Only Buyer T-Shirts Co. should be able to call a method to make payment.
 
    Desired Outcome: The contract should display in the console that Beach Threads Inc can't make payment for this order.
 
